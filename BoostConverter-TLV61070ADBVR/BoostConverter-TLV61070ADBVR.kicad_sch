@@ -1591,7 +1591,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv61070a.pdf"
+		(property "Datasheet" "https://www.digikey.com/en/products/detail/bourns-inc/SRP3020TA-4R7M/9350997"
 			(at 146.685 81.28 90)
 			(effects
 				(font
@@ -1600,7 +1600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Bourns SRP3020TA-4R7M "
 			(at 146.05 88.9 0)
 			(effects
 				(font
